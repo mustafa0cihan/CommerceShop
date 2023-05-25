@@ -28,7 +28,7 @@ Paypal Payment Integration: Integration with Paypal's payment platform allows se
 Getting Started
 To get started with MC Commerce Shop, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/mc-commerce-shop.git
+Clone the repository: git clone https://github.com/mustafa0cihan/commerceshop.git
 Install the dependencies for both the frontend and backend:
 For the frontend, navigate to the client directory and run npm install.
 For the backend, navigate to the main folder (server) directory and run npm install.
